@@ -1,3 +1,3 @@
 # Hangman
 
-Simple game to help me learn python - not yet finished
+Simple game to help me practice python - not yet finished
