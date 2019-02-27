@@ -21,6 +21,8 @@ def put_letter(letter, word, spaces):
 			new_spaces[i*2]=letter
 	return "".join(new_spaces)
 
+
+
 #get the word choices
 filename = raw_input("Teach me some words! (choose a file) ")
 try:
