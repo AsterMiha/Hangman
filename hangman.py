@@ -56,7 +56,7 @@ while option!="EXIT":
 			spaces=put_letter(option, word_chosen, spaces)
 
 	# too many mistakes
-	if mistakes>=5:
+	if mistakes>=6:
 		print("The word was "+word_chosen.upper())
 		lost_game = 1
 		games_lost += 1
