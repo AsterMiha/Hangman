@@ -3,7 +3,8 @@
 Simple command line game to help me practice python
 
 To play simply run hangman.py (python hangman.py) and choose a file with possible words for the game.
-There should be only one word per line.
+I use sowpods (https://raw.githubusercontent.com/jmlewis/valett/master/scrabble/sowpods.txt)
+but any list with one word per row would work.
 A random word from the list will be chosen and you can start guessing the letters.
 
 
